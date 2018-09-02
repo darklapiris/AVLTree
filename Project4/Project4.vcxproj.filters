@@ -29,9 +29,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Project4.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="AVLTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
